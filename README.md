@@ -129,12 +129,12 @@ Abaixo, separamos dois vídeos com Pitchs (de 2 minutos cada) para que você pos
 
 Luisa contando sua trajetória:
 
-[vídeo]([link-do-vídeo](https://www.youtube.com/watch?v=OZsDzbpPSkc))
+[vídeo](https://www.youtube.com/watch?v=OZsDzbpPSkc)
 
 No pitch da Luisa, é possível identificar que ela era uma arquiteta, mas que queria atuar com Marketing, certo? E ela conta uma história conectando o que ela aprendeu na arquitetura com marketing (lembre que storytelling é sobre conectar os pontos!)
 
 Renata contando sua trajetória:
 
-[vídeo]([link-do-vídeo](https://www.youtube.com/watch?v=FhICg8nG72I))
+[vídeo](https://www.youtube.com/watch?v=FhICg8nG72I)
 
 É um bom exemplo de storytelling para mostrar um formato mais criativo, que não segue uma sequência cronológica. Um pitch extremamente bem montado, onde ela pensou em cada palavra que iria usar.
