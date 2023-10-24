@@ -14,9 +14,9 @@ Contávamos histórias para explicar o mundo (mitos), contávamos histórias com
 
 As funções sociológicas e antropológicas das histórias são várias, mas quando falamos de autoconhecimento e processos seletivos, são três os pontos que mais nos interessam:
 
-1. **Histórias nos permitem ressignificar acontecimentos:** Quando contamos nossa própria história, isso nos ajuda a conectar os pontos e ressignificar acontecimentos, podendo inclusive impactar o quão felizes nos sentimos. Para saber mais, veja este [vídeo]([link-do-vídeo](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy)).
+1. **Histórias nos permitem ressignificar acontecimentos:** Quando contamos nossa própria história, isso nos ajuda a conectar os pontos e ressignificar acontecimentos, podendo inclusive impactar o quão felizes nos sentimos. Para saber mais, veja este [vídeo](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy).
 
-2. **Histórias nos permitem nos conectarmos em um nível mais profundo com o outro:** Inclusive sendo possível fazer essa pessoa sentir o que sentirmos ao vivenciar o fato, quase como se passássemos algo que está no nosso cérebro para o cérebro da outra pessoa (se quiser aprofundar e entender como histórias agem no nosso cérebro, veja este [vídeo]([link-do-vídeo](https://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript#t-875689))).
+2. **Histórias nos permitem nos conectarmos em um nível mais profundo com o outro:** Inclusive sendo possível fazer essa pessoa sentir o que sentirmos ao vivenciar o fato, quase como se passássemos algo que está no nosso cérebro para o cérebro da outra pessoa (se quiser aprofundar e entender como histórias agem no nosso cérebro, veja este [vídeo](https://www.ted.com/talks/uri_hasson_this_is_your_brain_on_communication/transcript#t-875689).
 
 3. **Histórias aumentam a chance de que o que falamos seja lembrado:** Existem inúmeras pesquisas no campo da neurociência e da psicologia cognitiva que mostram que histórias se fixam na nossa mente com maior facilidade se comparadas com uma simples lista de informações.
 
@@ -40,7 +40,7 @@ Não deixe para a pessoa entrevistadora preencher as lacunas da sua história. V
 
 Antes de seguirmos, assista ao vídeo abaixo, que mostra Steve Jobs falando na formatura de uma turma de Stanford! Caso tenha tempo, recomendamos que você assista ao vídeo completo, combinado? Mas, para o tema desta aula em específico, assistir entre os minutos 0:36 e 5:21 já é suficiente :)
 
-[vídeo]([link-do-vídeo](https://www.youtube.com/watch?v=45xrq0wpqv4))
+[vídeo](https://www.youtube.com/watch?v=45xrq0wpqv4)
 
 E aí? O que achou do vídeo?
 
